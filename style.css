@@ -1,0 +1,12 @@
+.body {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    width: 100vw;
+    overflow-x: hidden;
+    display: flex;
+    flex-direction: column;
+    > img {
+        width: 100%; 
+    }
+}
